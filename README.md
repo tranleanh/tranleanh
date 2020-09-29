@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi guys ⚡ I am just a dreamer who loves science!
+
 ![tranleanh stats](https://github-readme-stats.vercel.app/api?username=tranleanh&show_icons=false&theme=radical&count_private=true)
 
-![tranleanh stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tranleanh&show_icons=true&theme=radical&layout=compact)
+<!-- ![tranleanh stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tranleanh&show_icons=true&theme=radical&layout=compact) -->
 
 ![](https://komarev.com/ghpvc/?username=tranleanh&style=plastic)
