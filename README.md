@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi guys ⚡ I am just a dreamer who loves science!
+I am just a dreamer who loves science!
 
 <!-- ![tranleanh stats](https://github-readme-stats.vercel.app/api?username=tranleanh&show_icons=false&theme=radical&count_private=true) -->
 
