@@ -23,4 +23,4 @@ just a dreamy guy who loves science
 
 <!-- ![tranleanh stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tranleanh&show_icons=true&theme=radical&layout=compact) -->
 
-![](https://komarev.com/ghpvc/?username=tranleanh&style=plastic)
+<!-- ![](https://komarev.com/ghpvc/?username=tranleanh&style=plastic) -->
