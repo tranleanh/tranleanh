@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-just a dreamy guy who loves science
+just a dreamy guy
 
 <!-- ![tranleanh stats](https://github-readme-stats.vercel.app/api?username=tranleanh&show_icons=false&theme=radical&count_private=true) -->
 
